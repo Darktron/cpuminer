@@ -6,7 +6,7 @@ This is a WIP repo for pre-compiled cpuminer binaries with Userland(v23.09.13) a
 # **`This is for ARMv8`**
 
 # Installation:
-1. Download & install latest .apk from Apkmirror or Google Play Store [Userland](https://www.apkmirror.com/apk/userland-technologies-incorporated/userland/userland-23-09-13-release/userland-linux-on-android-23-09-13-2-android-apk-download)(:target="_blank" rel="noopener"):
+1. Download & install latest .apk from Apkmirror or Google Play Store [Userland](https://www.apkmirror.com/apk/userland-technologies-incorporated/userland/userland-23-09-13-release/userland-linux-on-android-23-09-13-2-android-apk-download):
 ```
 https://www.apkmirror.com
 ```
