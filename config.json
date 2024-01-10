@@ -1,0 +1,11 @@
+{
+"url" : "stratum+tcp://yespower.na.mine.zergpool.com:6533",
+"user" : "RUCkh4PbGedGLcBsgNsXhoDwnmp5ceTwyd",
+"pass" : "c=VRSC,mc=VISH,ID=SD765",
+"algo" : "yespower",
+"threads" : 8,
+"cpu-priority": 5,
+"cpu-affinity" : 255,
+"benchmark" : false,
+"quiet" : false
+}
